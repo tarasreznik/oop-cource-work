@@ -1,0 +1,75 @@
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\bin\Debug\BLLTests.dll
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\bin\Debug\BLLTests.pdb
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\bin\Debug\BLL.dll
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\bin\Debug\DAL.dll
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\bin\Debug\BLL.pdb
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\bin\Debug\DAL.pdb
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\obj\Debug\BLLTests.csprojAssemblyReference.cache
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\obj\Debug\BLLTests.csproj.CoreCompileInputs.cache
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\obj\Debug\BLLTests.csproj.CopyComplete
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\obj\Debug\BLLTests.dll
+C:\Users\Євгеній\source\repos\Hotel\BLLTests\obj\Debug\BLLTests.pdb
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\bin\Debug\BLLTests.dll
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\bin\Debug\BLLTests.pdb
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\bin\Debug\BLL.dll
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\bin\Debug\DAL.dll
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\bin\Debug\BLL.pdb
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\bin\Debug\DAL.pdb
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\obj\Debug\BLLTests.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\obj\Debug\BLLTests.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\obj\Debug\BLLTests.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\obj\Debug\BLLTests.dll
+C:\Users\Vitalik\Desktop\Hotel\BLLTests\obj\Debug\BLLTests.pdb
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\bin\Debug\BLLTests.dll
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\bin\Debug\BLLTests.pdb
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\bin\Debug\BLL.dll
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\bin\Debug\DAL.dll
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\bin\Debug\BLL.pdb
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\bin\Debug\DAL.pdb
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\obj\Debug\BLLTests.csprojAssemblyReference.cache
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\obj\Debug\BLLTests.csproj.CoreCompileInputs.cache
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\obj\Debug\BLLTests.csproj.CopyComplete
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\obj\Debug\BLLTests.dll
+E:\ігрулі\ДЗ\2 курс\Мій 2 курс\1 семестр\ООП\Hotel\BLLTests\obj\Debug\BLLTests.pdb
+C:\Users\taras\Desktop\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\taras\Desktop\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\taras\Desktop\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\taras\Desktop\Hotel\BLLTests\bin\Debug\BLLTests.dll
+C:\Users\taras\Desktop\Hotel\BLLTests\bin\Debug\BLLTests.pdb
+C:\Users\taras\Desktop\Hotel\BLLTests\bin\Debug\BLL.dll
+C:\Users\taras\Desktop\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\taras\Desktop\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\taras\Desktop\Hotel\BLLTests\bin\Debug\DAL.dll
+C:\Users\taras\Desktop\Hotel\BLLTests\bin\Debug\BLL.pdb
+C:\Users\taras\Desktop\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\taras\Desktop\Hotel\BLLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\taras\Desktop\Hotel\BLLTests\bin\Debug\DAL.pdb
+C:\Users\taras\Desktop\Hotel\BLLTests\obj\Debug\BLLTests.csproj.AssemblyReference.cache
+C:\Users\taras\Desktop\Hotel\BLLTests\obj\Debug\BLLTests.csproj.CoreCompileInputs.cache
+C:\Users\taras\Desktop\Hotel\BLLTests\obj\Debug\BLLTests.csproj.CopyComplete
+C:\Users\taras\Desktop\Hotel\BLLTests\obj\Debug\BLLTests.dll
+C:\Users\taras\Desktop\Hotel\BLLTests\obj\Debug\BLLTests.pdb
